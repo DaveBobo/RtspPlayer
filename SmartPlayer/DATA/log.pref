@@ -1,0 +1,4 @@
+Opening connection to 192.168.1.50, port 8554...
+...Connection to server failed: Unknown error
+[URL:"rtsp://192.168.1.50:8554/a"]: Failed to get a SDP description: Connection to server failed: Unknown error
+[URL:"rtsp://192.168.1.50:8554/a"]: Closing the stream.

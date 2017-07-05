@@ -1,0 +1,41 @@
+﻿生成启动时间为 4/28/2015 0:06:16。
+     1>项目“C:\Users\Burial\Desktop\RtspPlayer\SmartPlayer\SmartPlayer.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\SmartPlayer.lastbuildstate”。
+       PrepareForBuild:
+         正在创建目录“C:\Users\Burial\Desktop\RtspPlayer\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\SmartPlayer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\SmartPlayer.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt InputURLDlg.cpp SmartPlayer.cpp SmartPlayerDlg.cpp
+         InputURLDlg.cpp
+     1>InputURLDlg.cpp(60): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>InputURLDlg.cpp(128): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325) : 参见“sscanf”的声明
+         SmartPlayer.cpp
+         SmartPlayerDlg.cpp
+     1>SmartPlayerDlg.cpp(341): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\SmartPlayer.res" SmartPlayer.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Burial\Desktop\RtspPlayer\Release\SmartPlayer.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\SmartPlayer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Burial\Desktop\RtspPlayer\Release\SmartPlayer.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Burial\Desktop\RtspPlayer\Release\SmartPlayer.lib" /MACHINE:X86 Release\SmartPlayer.res
+         Release\InputURLDlg.obj
+         Release\SmartPlayer.obj
+         Release\SmartPlayerDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         SmartPlayer.vcxproj -> C:\Users\Burial\Desktop\RtspPlayer\Release\SmartPlayer.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Burial\Desktop\RtspPlayer\Release\SmartPlayer.exe;#1" /manifest Release\SmartPlayer.exe.intermediate.manifest "D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\SmartPlayer.unsuccessfulbuild”。
+         正在对“Release\SmartPlayer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Burial\Desktop\RtspPlayer\SmartPlayer\SmartPlayer.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.58

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPlayer", "SmartPlayer\SmartPlayer.vcxproj", "{43DA5387-D129-4CBB-863F-76F9EAFE5282}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtspPlayer", "RtspPlayer\RtspPlayer.vcxproj", "{4EA4DE9D-2578-4571-8C59-96A0C1F4FE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DA5387-D129-4CBB-863F-76F9EAFE5282}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43DA5387-D129-4CBB-863F-76F9EAFE5282}.Debug|Win32.Build.0 = Debug|Win32
+		{43DA5387-D129-4CBB-863F-76F9EAFE5282}.Release|Win32.ActiveCfg = Release|Win32
+		{43DA5387-D129-4CBB-863F-76F9EAFE5282}.Release|Win32.Build.0 = Release|Win32
+		{4EA4DE9D-2578-4571-8C59-96A0C1F4FE69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EA4DE9D-2578-4571-8C59-96A0C1F4FE69}.Debug|Win32.Build.0 = Debug|Win32
+		{4EA4DE9D-2578-4571-8C59-96A0C1F4FE69}.Release|Win32.ActiveCfg = Release|Win32
+		{4EA4DE9D-2578-4571-8C59-96A0C1F4FE69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
