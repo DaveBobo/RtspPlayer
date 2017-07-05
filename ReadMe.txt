@@ -1,3 +1,1 @@
-![image](https://github.com/DaveBobo/RtspPlayer/blob/master/Screenshots/r1.jpg)
-![image](https://github.com/DaveBobo/RtspPlayer/raw/master/Screenshots/r2.jpg)
-<img src="https://github.com/DaveBobo/RtspPlayer/blob/master/Screenshots/r1.jpg"/> 
+![Alt text](https://github.com/chenyufeng1991/BaiduMap-TrafficAssistant/raw/master/Screenshots/主界面.jpg)
