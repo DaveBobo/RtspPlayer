@@ -1,4 +1,6 @@
-è¿è¡Œç¯å¢ƒï¼šwindows7
-æœ¬é¡¹ç›®ä¸ºRTSPè§†é¢‘æ’­æ”¾å™¨å®¢æˆ·ç«¯,å¯æ”¯æŒRTSPå®æ—¶åè®®è§£æï¼Œè§£ç æ˜¾ç¤ºã€‚
-
-
+ÏîÄ¿½éÉÜ£º±¾ÏîÄ¿ÎªRTSPÊÓÆµ²¥·ÅÆ÷¿Í»§¶Ë,ÊµÏÖÁËRTSPÊµÊ±Ğ­Òé½âÎö¡¢FFmpeg½âÂëºÍSDLÏÔÊ¾¡£
+ÔËĞĞ»·¾³£ºWindows 7
+1 ÊäÈëRTSPµØÖ·´ò¿ªÊÓÆµÁ÷
+![Alt text](https://github.com/DaveBobo/RtspPlayer/raw/master/Screenshots/1.jpg)
+2 FFmpeg½âÂëºÍSDLÏÔÊ¾
+![Alt text](https://github.com/DaveBobo/RtspPlayer/raw/master/Screenshots/2.jpg)
