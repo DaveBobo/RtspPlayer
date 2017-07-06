@@ -1,6 +1,6 @@
-ÏîÄ¿½éÉÜ£º±¾ÏîÄ¿ÎªRTSPÊÓÆµ²¥·ÅÆ÷¿Í»§¶Ë,ÊµÏÖÁËRTSPÊµÊ±Ð­Òé½âÎö¡¢FFmpeg½âÂëºÍSDLÏÔÊ¾¡£
-ÔËÐÐ»·¾³£ºWindows 7
-1 ÊäÈëRTSPµØÖ·´ò¿ªÊÓÆµÁ÷
-![baidu](http://www.baidu.com/img/bdlogo.gif "°Ù¶Èlogo")
-2 FFmpeg½âÂëºÍSDLÏÔÊ¾
+é¡¹ç›®ä»‹ç»ï¼šæœ¬é¡¹ç›®ä¸ºRTSPè§†é¢‘æ’­æ”¾å™¨å®¢æˆ·ç«¯,å®žçŽ°äº†RTSPå®žæ—¶åè®®è§£æžã€FFmpegè§£ç å’ŒSDLæ˜¾ç¤ºã€‚
+è¿è¡ŒçŽ¯å¢ƒï¼šWindows 7 br
+1 è¾“å…¥RTSPåœ°å€æ‰“å¼€è§†é¢‘æµ
+![baidu](http://www.baidu.com/img/bdlogo.gif "ç™¾åº¦logo")
+2 FFmpegè§£ç å’ŒSDLæ˜¾ç¤º
   
