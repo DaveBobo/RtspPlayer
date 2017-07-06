@@ -12,6 +12,6 @@
                        
 【视音频图像技术干货，FFmpeg流媒体、OpenCV图像及深度学习技术探索，开源项目推荐，还有更多职场规划】欢迎关注我的微信公众号，扫一扫下方二维码或者长按识别二维码。
                          
-   ![image2]<div align=center><img width="150" height="150" src="https://github.com/DaveBobo/RtspPlayer/blob/master/Screenshots/wx.jpg"/></div>
+<div align=center><img src="https://github.com/DaveBobo/RtspPlayer/blob/master/Screenshots/wx.jpg"/></div>
 
     1                         
